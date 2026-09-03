@@ -9,4 +9,4 @@
   </a>
 </p>
 
-commissions open! add famxlyippee on discord for more info <3
+commissions open! add famxlyippee on discord prices: https://rentry.co/2cgtua6t
