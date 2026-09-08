@@ -3,7 +3,7 @@
 <a href="https://jimmyiktt.atabook.org/" target="_blank">ata</a> . <a href="https://guns.lol/jimmyiktt" target="_blank">gunlol</a> . <a href="https://prns.cc/dxlsc" target="_blank">pronouns</a> </p>
 <p align="center" style="color:#B94909;">
 <p align="center">
-did i fail to be a good friend? cause many ppl seem to be distant from me
+i swear i didn’t listen to verity song,, i open for fun and didn’t use spotify after that,,
   
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dhsjtjf7kgzb7iwimkko73gbni&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dhsjtjf7kgzb7iwimkko73gbni&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
