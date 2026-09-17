@@ -10,4 +10,4 @@ i swear i didn’t listen to verity song,, i open for fun and didn’t use spoti
   </a>
 </p>
 
-commissions open! add famxlyippee on discord prices: https://rentry.co/2cgtua6t
+
