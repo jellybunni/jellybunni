@@ -8,5 +8,4 @@
   <img src="https://www.image2url.com/r2/default/images/1790536175297-dd71788d-df6a-4111-a5cc-eda2d087f32f.png" alt="image" style="width: 600px; height: auto;">
 </div>
 
-Art by me, oc x cannon💔 
-commission open, add my discord: famxlyippee
+me and my partner !!
