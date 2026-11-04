@@ -4,6 +4,8 @@
 <p align="center" style="color:#B94909;">
 <p align="center">
 
+i might not join pt anymore, i only join my friends sometimes. i just feel uncomfortable around dc or movies area. it’s my fault tho.
+
 <img width="2048" height="1536" alt="Untitled776" src="https://github.com/user-attachments/assets/c881f7ec-078a-4b8f-b97e-ec519517f03c" />
 <3
 
