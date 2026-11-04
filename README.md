@@ -4,8 +4,6 @@
 <p align="center" style="color:#B94909;">
 <p align="center">
 
-<div style="text-align: center;">
-  <img src="https://www.image2url.com/r2/default/images/1790536175297-dd71788d-df6a-4111-a5cc-eda2d087f32f.png" alt="image" style="width: 600px; height: auto;">
-</div>
+<img width="2048" height="1536" alt="Untitled776" src="https://github.com/user-attachments/assets/c881f7ec-078a-4b8f-b97e-ec519517f03c" />
+<3
 
-me and my partner !!
