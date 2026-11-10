@@ -5,9 +5,13 @@
 
 <img width="1920" height="795" alt="IMG_6715" src="https://github.com/user-attachments/assets/6e2f3883-d62c-434e-b9c1-b7ec944fb282" />
 
-<p style="font-family: Minecraft, monospace; color: #808922;">
-I’ll&nbsp;&nbsp;&nbsp;always be
-<a href="https://github.com/jellybunni" style="color: #808922; text-decoration: none;">sweet</a>
-&nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;
-<a href="https://github.com/devesquotie" style="color: #808922; text-decoration: none;">tooth</a>.
+<img src="https://fonts.googleapis.com/css2?family=VT323&display=swap" style="display:none;">
+
+<p align="center">
+  <span style="font-family: VT323; font-size: 32px; color: #808922;">
+    I’ll&nbsp;&nbsp; always be
+    <a href="https://github.com/jellybunni">sweet</a>
+    &nbsp;&nbsp;to your&nbsp;&nbsp;
+    <a href="https://github.com/devesquotie">tooth</a>.
+  </span>
 </p>
