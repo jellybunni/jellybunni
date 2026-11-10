@@ -31,3 +31,8 @@
   &nbsp; t𝓸 𝔂𝓸𝓾𝓻 &nbsp;
   <a href="https://github.com/devesquotie">t𝓸ot𝓱</a>.
 </p>
+<div align="center">
+  <img width="180" height="130" src="https://github.com/user-attachments/assets/fc394c22-e72b-4eb6-83e5-ac71d51e7a4b" />
+  <p align="center">
+  <img height="30" alt="Untitled828_20261110212716" src="https://github.com/user-attachments/assets/4bea2b67-d94f-43d8-9755-449ae8da76d7" />
+</p>
