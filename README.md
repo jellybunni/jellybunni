@@ -36,3 +36,7 @@
   <p align="center">
   <img height="30" alt="Untitled828_20261110212716" src="https://github.com/user-attachments/assets/4bea2b67-d94f-43d8-9755-449ae8da76d7" />
 </p>
+
+
+<img width="212" height="240" alt="pony-town-wifi_rusak-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/1812b404-38f9-4f5b-9d7e-771ca8a66987" />
+<img width="204" height="240" alt="IMG_6747" src="https://github.com/user-attachments/assets/8ac4cb82-2d68-4c9d-8e95-3b3f0452defb" />
