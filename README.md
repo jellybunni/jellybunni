@@ -38,5 +38,5 @@
 </p>
 
 
-<img width="212" height="240" alt="pony-town-wifi_rusak-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/1812b404-38f9-4f5b-9d7e-771ca8a66987" />
-<img width="204" height="240" alt="IMG_6747" src="https://github.com/user-attachments/assets/8ac4cb82-2d68-4c9d-8e95-3b3f0452defb" />
+<img width="152" height="184" alt="pony-town-wifi_rusak-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/1812b404-38f9-4f5b-9d7e-771ca8a66987" />
+<img width="152" height="184" alt="IMG_6747" src="https://github.com/user-attachments/assets/8ac4cb82-2d68-4c9d-8e95-3b3f0452defb" />
