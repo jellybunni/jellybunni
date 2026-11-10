@@ -37,6 +37,8 @@
   <img height="30" alt="Untitled828_20261110212716" src="https://github.com/user-attachments/assets/4bea2b67-d94f-43d8-9755-449ae8da76d7" />
 </p>
 
-
-<img width="152" height="184" alt="pony-town-wifi_rusak-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/1812b404-38f9-4f5b-9d7e-771ca8a66987" />
 <img width="152" height="184" alt="IMG_6747" src="https://github.com/user-attachments/assets/8ac4cb82-2d68-4c9d-8e95-3b3f0452defb" />
+<img width="152" height="184" alt="pony-town-wifi_rusak-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/1812b404-38f9-4f5b-9d7e-771ca8a66987" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&speed=400&pause=100&color=808922&center=true&vCenter=true&width=400&lines=This+look+better+on+white+mode%5E_%5E%E2%80%99" alt="Typing SVG" />
+</p>
