@@ -4,3 +4,10 @@
 </p>
 
 <img width="1920" height="795" alt="IMG_6715" src="https://github.com/user-attachments/assets/6e2f3883-d62c-434e-b9c1-b7ec944fb282" />
+
+<p style="font-family: Minecraft, monospace; color: #808922;">
+I’ll&nbsp;&nbsp;&nbsp;always be
+<a href="https://github.com/jellybunni" style="color: #808922; text-decoration: none;">sweet</a>
+&nbsp;&nbsp;&nbsp;to&nbsp;&nbsp;
+<a href="https://github.com/devesquotie" style="color: #808922; text-decoration: none;">tooth</a>.
+</p>
